@@ -8,6 +8,7 @@
 * Dormir
 * Comer
 * Ver series
+* Nadar
 
 ##Cita favorita
 > Me gustaria cambiar el mundo pero no me dieron el codigo fuente. -Un geek por ahi
